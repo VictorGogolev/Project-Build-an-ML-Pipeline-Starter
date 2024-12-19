@@ -1,4 +1,4 @@
-Weights and Biases Link:[ https://wandb.ai/victor-gogolev-na/projects](https://wandb.ai/victor-gogolev-na/nyc_airbnb)](https://wandb.ai/victor-gogolev-na/nyc_airbnb?nw=nwuservictorgogolev)<br>
+Weights and Biases Link: https://wandb.ai/victor-gogolev-na/nyc_airbnb<br>
 Github Repo Link: https://github.com/VictorGogolev/Project-Build-an-ML-Pipeline-Starter
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
